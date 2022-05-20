@@ -1,2 +1,2 @@
-# zettai
+# Zettai
 To Do application
